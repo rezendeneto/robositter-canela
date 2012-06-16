@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "TransceiverV2", "TransceiverV2\TransceiverV2.cppproj", "{901B8634-C248-43A1-A97B-8940915838E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901B8634-C248-43A1-A97B-8940915838E8}.Debug|AVR.ActiveCfg = Debug|AVR
+		{901B8634-C248-43A1-A97B-8940915838E8}.Debug|AVR.Build.0 = Debug|AVR
+		{901B8634-C248-43A1-A97B-8940915838E8}.Release|AVR.ActiveCfg = Release|AVR
+		{901B8634-C248-43A1-A97B-8940915838E8}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
